@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 practise project",
+  "main": "index.js",
+  "author": "Tomasz Odrzywolek",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "graceful-fs": "4",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
